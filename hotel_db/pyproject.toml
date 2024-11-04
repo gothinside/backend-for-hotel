@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+pythonpath=[
+    ".", "dd", "test"
+]
+asyncio_mode="auto"
